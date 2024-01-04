@@ -1,0 +1,35 @@
+table
+th {
+  padding: 20px;
+}
+td {
+  padding: 30px;
+  border: 1px solid #333;
+}
+
+thead, tfoot {
+  background-color: #0c546c81;
+  color: #fff;
+}
+
+/*#tabletsheet {
+    border-style:groove;
+    border-color: black;
+}
+
+#firstRow {
+
+    display: inline-flex;
+}
+#secondRow {
+
+    display: -moz-inline-box;
+}
+.tabletPart {
+
+    border-right: groove;
+    border-color: black;
+    height: 45px;
+    width: 45px;
+    margin: 0;
+}*/
