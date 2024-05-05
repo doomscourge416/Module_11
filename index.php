@@ -200,10 +200,10 @@
         <tbody>
             <tr>
                 <td><?php
-                    $a1 === true;
-                    $b1 === true;
-                    $a2 === false;
-                    $b2 === false;
+                    $a1 = true;
+                    $b1 = true;
+                    $a2 = false;
+                    $b2 = false;
                     $a3 = 1;
                     $b3 = 1;
                     $a4 = 0;
